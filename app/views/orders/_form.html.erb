@@ -1,0 +1,31 @@
+<%= form_for(@order) do |f| %>
+  <% if @order.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@order.errors.count, "error") %> prohibited this order from being saved:</h2>
+
+      <ul>
+      <% @order.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <h3> Upload text files to convert to CSV. </h3>
+
+  <div class="field">
+    <%= f.label :name %><br>
+    <%= f.text_field :name, value: Time.now.to_formatted_s(:db)%>
+  </div>
+
+  <%= f.fields_for :order_attachments do |p| %>
+    <div class="field">
+      <%= p.label "Text Files" %><br>
+      <%= p.file_field :avatar, :multiple => true, name: "order_attachments[avatar][]" %>
+    </div>
+  <% end %>
+
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

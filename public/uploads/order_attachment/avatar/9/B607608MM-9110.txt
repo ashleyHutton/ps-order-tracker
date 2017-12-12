@@ -1,0 +1,51 @@
+BILLING INFO:
+company:01
+name:MOBILE MINI
+address1:4646 E VAN BUREN ST STE 400
+address2:
+city:PHOENIX
+state:AZ
+zip:85008-6927
+country:
+
+SHIPPING INFO:
+customer:07154582
+igetsmart company order number:B607608
+Order Date:20171204
+reference number:4500252326
+name:MOBILE MINI
+attention:BILLY GILLOOLY
+costcenter number:1428
+costcenter/shipping address1:30 NORTH 56TH STREET
+address2:
+city:PHOENIX
+state:AZ
+zip:85034
+country:USA
+shipvia:UPS GROUND
+3RD PARTY ACCOUNT: 
+day phone:
+evening phone:
+email:
+request by:
+special instructions:
+
+DETAIL INFO:
+item number: MM-9110
+Quantity: 1 PKG 2
+cardtype: T&P WM DOT 1032502
+languageoption: English
+Sequence Number: 1
+Billing Transaction Number: 065990693
+Warehouse Descriptor: 
+Combined Warehouse Order: N
+
+USER FIELDS:
+
+SPECIAL CHARGE INFO:
+Special Charge Number:001
+Special Charge Description:MERCHANDISE FORM
+Vendor Invoice Number:
+Vendor Number:
+--------------------------------------------------------
+*This Purchase Order constitutes an offer by the company specified on the Purchase Order (“Buyer”) to purchase the goods and/or services set out in the Purchase Order from the company, firm or person specified on the Purchase Order  (“Seller”) subject to the terms and conditions which can be viewed on the following URL  www.poterms.com  (“Terms”).  Please note that the terms contain IMPORTANT LEGAL INFORMATION.  Please click on the URL and read the terms carefully and note that there are a number of special terms highlighted in bold.  In addition the Terms explain how the Purchase Order may be accepted. The Purchase Order and the Terms comprise the only terms and conditions on which Buyer shall do business with Seller and the Terms shall apply  to each Purchase Order.  Buyer does not accept any other terms and conditions generally used by Seller, preferred by Seller or   otherwise brought to Buyer’s notice by the Seller (whether or not such terms and conditions have been printed on any quotation,  estimate or other document, electronically or otherwise given to the Buyer subject to which the Purchase Order is accepted by Seller).

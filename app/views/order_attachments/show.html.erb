@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Order:</strong>
+  <%= @order_attachment.order_id %>
+</p>
+
+<p>
+  <strong>Avatar:</strong>
+  <%= @order_attachment.avatar %>
+</p>
+
+<%= link_to 'Edit', edit_order_attachment_path(@order_attachment) %> |
+<%= link_to 'Back', order_attachments_path %>
